@@ -1,0 +1,17 @@
+{
+    "name": "imaple7\/rrule-php",
+    "description": "A PHP RRule package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fujie Chen",
+            "email": "imaple7@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Imaple7\\RrulePhp\\": "src"
+        }
+    }
+}
